@@ -1,7 +1,8 @@
 // Header
 .header {
   margin-bottom: 50px;
-  background: $black;
+  background: #e2e2e2;
+  box-shadow: 0px 2px 9px #888888;
 }
 
 .header, .header-box {
@@ -22,8 +23,14 @@
       letter-spacing: 5px;
       color: $text;
       &:hover {
-        color: #fff;
+        color: #a9a9a9;
       }
+    }
+  }
+  .brand-image{
+    img {
+      max-width:30%;
+      margin-right:-100px;
     }
   }
 }
@@ -63,7 +70,8 @@
     font-size: 30px;
     font-weight: 700;
     line-height: 60px;
-    color: $text;
+    color: #161c66;
+    text-shadow: 2px 2px 4px #fff;
     &:before {
       content: '';
       position: absolute;
@@ -123,10 +131,10 @@
 
 .nav-buttons {
   i.ion {
-    margin-left: 10px;
-    font-size: 20px;
+    //margin-left: 10px;
+    font-size: 30px;
     vertical-align: middle;
-    color: $text;
+    color: #000;
     cursor: pointer;
     &:first-child {
       margin-left: 0;
@@ -320,7 +328,7 @@
       margin-bottom: 5px;
       .article-date {
         font-size: 12px;
-        color: rgba($text, .8);
+        color: #767676;
       }
       .article-tag {
         .tag {
@@ -349,14 +357,14 @@
       margin-bottom: 5px;
       a {
         font-size: 24px;
-        color: $text;
+        /*color: $text;*/
       }
     }
     .article-excerpt {
       margin-bottom: 0;
       font-size: 15px;
       line-height: 25px;
-      color: $gray-blue;
+      color: $black;
     }
   }
 }
@@ -379,7 +387,28 @@
 
 
 // Media
+@media only screen and (min-width: 320px) {
+  .header-box{
+    .brand-image{
+      img {
+        max-width:50%;
+      }
+    }
+  }
+  .nav-buttons i.ion{
+    font-size:20px;
+  }
+}
+
 @media only screen and (min-width: 576px) {
+  .header-box{
+    .brand-image{
+      img {
+        max-width:30%;
+      }
+    }
+  }
+
   .article-first {
     .article-content-first {
       .article-title {

@@ -1,17 +1,22 @@
 // FOOTER
 .footer {
-  padding: 50px 0;
+  padding: 20px 0;
   margin-top: 30px;
-  background: $black;
+  background: #e2e2e2;
 }
 
 .footer-top {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding-bottom: 15px;
   margin-bottom: 10px;
   border-bottom: 1px solid $border-color;
+  .logo-title{ 
+    .brand-image{
+      max-width:50%;
+      margin-right:-100px;
+    }
+  }
   .logo-text {
     font-size: 16px;
     font-weight: 700;

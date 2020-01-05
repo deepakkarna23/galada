@@ -1,22 +1,22 @@
 #-------------------------------
 # General Site Settings
 
-title: Galada Theme | Theme for Jekyll
-description: Galada is an easy and simple theme for Jekyll. Dark colors, give it a special exquisite look. A careful approach to design and features make it an ideal solution for a personal blog. # this means to ignore newlines until "baseurl:"
-baseurl: "/galada" # the subpath of your site, e.g. /blog
+title: Tech UpNext | Serving Tech Updates
+description: Tech UpNext was found in 2018 with the aim of serving you the latest and upcoming technologies, gadgets with features, games, how to and many more. Subscribe us to get updates! # this means to ignore newlines until "baseurl:"
+baseurl: "/techupnext" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
 # About Section
-author-name:   Natali Anderson
+author-name:   Deepak Lal Karna
 author-avatar: 09.jpg
 
 
 #-------------------------------
 # Contact links
-facebook:  https://facebook.com/ # Add your Facebook handle
-twitter:   https://twitter.com/ # Add your Facebook handle
+facebook:  https://facebook.com/techupnext # Add your Facebook handle
+twitter:   https://twitter.com/tech_upnext # Add your Facebook handle
 instagram: https://www.instagram.com/ # Add your Facebook handle
 pinterest: https://www.pinterest.com/ # Add your Facebook handle
 

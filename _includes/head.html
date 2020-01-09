@@ -6,6 +6,25 @@
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name='description' content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}'>
 
+  <!--Meta tags for SEO-->
+  <meta name="description" content="Tech UpNext is " />
+  <meta name="keywords" content="vending, coffee, vending machines, dispensers, premixes, tea coffee, tea and coffee, coffee machines">
+  <meta name="author" content="Deepak L. Karna">
+  <!-- Schema.org for Google -->
+  <meta itemprop="name" content="Tech UpNext - Serving Tech Updates">
+  <meta itemprop="description" content="Tech UpNext is ">
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Tech UpNext - Serving Tech Updates">
+  <meta name="twitter:description" content="Tech UpNext is ">
+  <!-- Open Graph general (Facebook, Pinterest & Google+) -->
+  <meta name="og:title" content="Tech UpNext - Serving Tech Updates">
+  <meta name="og:description" content="Tech UpNext is">
+  <meta name="og:url" content="https://techupnext.co">
+  <meta name="og:site_name" content="Tech UpNext - Serving Tech Updates">
+  <meta name="og:type" content="website">
+
+
   <link rel="icon" type="img/png" href="{{site.baseurl}}/favicon.ico"/>
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">

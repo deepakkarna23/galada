@@ -1,10 +1,8 @@
 ---
 layout: noimage
 title: About
-image: 08.jpg
 permalink: /about/
 ---
-
 My name is Deepak Lal Karna. I'm an IT guy. 
 
 #### Austin scenester...

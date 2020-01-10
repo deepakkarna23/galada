@@ -3,20 +3,32 @@ layout: noimage
 title: About
 permalink: /about/
 ---
-My name is Deepak Lal Karna. I'm an IT guy. 
 
-#### Austin scenester...
-<small>2008 - 2017</small>
+<img src="{{site.baseurl}}/img/about.png">
 
-Offal post-ironic before they sold out mixtape you probably haven't heard of them. Pinterest roof party umami everyday carry street art. Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Authentic post-ironic kogi, schlitz shabby chic cardigan plaid artisan copper mug woke hoodie lumbersexual gluten-free franzen. Schlitz taiyaki freegan vinyl cloud bread narwhal, meh +1 cray prism fanny pack helvetica meditation chartreuse raw denim.
+<h2>Tech UpNext</h2>
 
-#### Vinyl hexagon before...
-<small>2001 - 2008</small>
+***
+>Our mission is to provide tech updates related to games, gadgets, how to, tutorials and many more.
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally pour-over keffiyeh messenger bag synth pinterest godard knausgaard letterpress squid cardigan poke listicle. 
+<p class="para">
+<strong>Tech UpNext</strong> is an ambitious technology blog founded in 2018 to provide latest information regarding technology and many more with variety of posts.
+</p>
 
-#### La croix you probably...
-<small>1995 - 2000</small>
+<p class="para">
+On the tech upnext blog you'll find uptodate tech news evolving day by day. We are developers passionate about technology getting updated each day. You can find latest breaking news about tech and tech events.
+</p>
 
-Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion axe XOXO ethical squid cray jianbing mustache. Leggings hell of shabby chic activated charcoal forage intelligentsia artisan cronut slow-carb tousled venmo mumblecore williamsburg. Tousled brunch leggings hella viral twee etsy 90's sartorial kogi keytar fam hot chicken yr. Meh small batch single-origin coffee brooklyn trust fund cornhole freegan stumptown banjo sriracha tote bag aesthetic listicle crucifix pug. Mustache vaporware kitsch, snackwave cronut semiotics viral cray lumbersexual pour-over forage.
+<p class="para">
+On this website you can find latest news and solutions. Problems arising in your laptop from operating system to software tips & tricks and many more can be solved easily by the help of our different posts. Even a layman can understand the solution written in easy way explained in detail.
+</p>
+
+<p class="para">
+Tech UpNext is all about technology and that's why here you can get information about: latest gaming, latest gadgets, upgrading tv, vehicles, appliances with technology advancement. From AI integration to devices, gadgets, home appliances, etc. to latest battle royale games developed with advanced technology and new idea.
+</p>
+
+<p class="para">
+From code and programming related news to other variety of topics. You can take advantage of the better posts and get yourself uptodate with different technologies emerging. You can expect to find Tech UpNext blog better documented articles.
+</p>
+
+Don't forget to subscribe to our <a href="">newsletter</a> and follow us on <a href="{{site.facebook}}">Facebook,</a> <a href="{{site.twitter}}">Twitter</a> and <a href="{{site.Instagram}}">Instagram.</a>

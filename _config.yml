@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 
-title: Tech UpNext | Serving Tech Updates
+title: Tech UpNext - Serving Tech Updates
 description: Tech UpNext was found in 2018 with the aim of serving you the latest and upcoming technologies, gadgets with features, games, how to and many more. Subscribe us to get updates! # this means to ignore newlines until "baseurl:"
 baseurl: "/techupnext" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -9,15 +9,15 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # About Section
-author-name:   Deepak Lal Karna
-author-avatar: 09.jpg
+author-name:   Deepak L. Karna
+author-avatar: author.png
 
 
 #-------------------------------
 # Contact links
 facebook:  https://facebook.com/techupnext # Add your Facebook handle
-twitter:   https://twitter.com/tech_upnext # Add your Facebook handle
-instagram: https://www.instagram.com/ # Add your Facebook handle
+twitter:   https://twitter.com/tech_upnext # Add your Twitter handle
+instagram: https://www.instagram.com/ # Add your LinkedIn handle
 pinterest: https://www.pinterest.com/ # Add your Facebook handle
 
 

@@ -32,10 +32,11 @@ permalink: /contact/
 <h4>Hey, Welcome! I'm Deepak an author at Tech UpNext</h4>
 
 ***
-<p class="para">I'm tireless tech enthusiast updating myself about latest technologies evolved in the present world. The idea of Tech UpNext occured in 2018 and is now already implemented with the aim of providing tech updates related to games, gadgets, vehicles, laptops, how to topics and many more. Being computer geek involved in computers and internet support me well to know and deliver the technology updates to my reader. 
-<br>
+<p class="para">I'm tireless tech enthusiast updating myself about latest technologies evolved in the present world. The idea of Tech UpNext occured in 2018 and is now already implemented with the aim of providing tech updates related to games, gadgets, vehicles, laptops, how to topics and many more. Being computer geek involved in computers and internet support me well to know and deliver the technology updates to my reader. </p>
+
+<p class="para">
 I completed graduation in Computer Science & now pursuing my career in Network and System alongside the hobbies like blogging, technical writing, ethical hacking, experimenting with different topics while coding, playing games and reading books.</p>
-<br>
+
 >"Technology is so much fun but we can drown in our technology. The fog of information can drive out knowledge." - Daniel J. Boorstin
 
 <br>

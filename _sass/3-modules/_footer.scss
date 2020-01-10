@@ -85,3 +85,18 @@
     }
   }
 }
+
+@media only screen and (min-width: 320px) {
+  .footer-bottom .copyright {
+    margin-right: 0px;
+  }
+  .footer-bottom .footer-social ul li {
+    margin-left: 10px;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .footer-bottom .footer-social ul li:first-child {
+    margin-left: 30px;
+  }
+}

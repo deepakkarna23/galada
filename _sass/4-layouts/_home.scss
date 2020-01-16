@@ -1,3 +1,13 @@
+//Ad
+.ad-container {
+  height: 90px;
+  width: 970px;
+  padding: 0 30px 0 30px;
+  margin: 0 auto;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
 // Header
 .header {
   margin-bottom: 50px;
@@ -209,7 +219,7 @@
     &:before {
       content: "";
       display: table;
-      padding-top: 50%;
+      padding-top: 35%;
     }
   }
   .article-content-first {
@@ -443,7 +453,7 @@
 @media only screen and (min-width: 768px) {
   .article-first {
     .article-content-first {
-      padding: 60px 40px 0;
+      padding: 0 40px 0;
     }
   }
 }

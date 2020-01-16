@@ -48,7 +48,7 @@ I completed graduation in Computer Science & now pursuing my career in Network a
 
 <form action="">
 	<label for="fname">First Name</label>
-	<input type="text" id="fname" name="firstname" placeholder="Your name...">
+	<input type="text" id="fname" name="firstname" placeholder="Your first name...">
 	<label for="fname">Last Name</label>
 	<input type="text" id="lname" name="lastname" placeholder="Your last name...">
 	<label for="email">Email</label>

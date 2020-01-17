@@ -193,6 +193,14 @@
 }
 
 // MEDIA
+@media only screen and (min-width: 320px) {
+  .post-info .post-info-author .info-author-name{
+    position: relative;
+    padding-right: 10px;
+    color: #C9D3E7; 
+  }
+}
+
 @media only screen and (min-width: 576px) {
   .post-content {
     padding: 40px;

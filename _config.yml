@@ -3,8 +3,8 @@
 
 title: Tech UpNext - Serving Tech Updates
 description: Tech UpNext was found in 2018 with the aim of serving you the latest and upcoming technologies, gadgets with features, games, how to and many more. Subscribe us to get updates! # this means to ignore newlines until "baseurl:"
-baseurl: "/techupnext.github.io" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://techupnext.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------

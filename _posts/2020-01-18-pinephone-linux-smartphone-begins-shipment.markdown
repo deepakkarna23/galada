@@ -28,6 +28,10 @@ PinePhone runs an open source Linux-based operating system preloaded with Linux 
 
 * It has repleacable Samsung J7 form-factor 3000mAh battery with USB Type C port.
 
+### PinePhone vs Purism Librem 5
+
+<a href="https://puri.sm/products/librem-5/" target="_blank">Purism Librem 5</a> is also Linux phone device that uses desktop class components which is not suitable for phone form factor and thus, is arguably more powerful than PinePhone. Librem is expensive and may also not support alternate OS as the PinePhone. Both device are privacy consciously built for open source enthusiasts and developers, who can tweak the system as per their requirement.
+
 ### Operating System Support
 
 There is no fixed PinePhone operating system selected to ship preinstalled on handset. But Linux community has put hard work to port open source operating system to run on PinePhone. Some of the supported operating system including their development status on the Librem 5 are:
@@ -43,10 +47,6 @@ There is no fixed PinePhone operating system selected to ship preinstalled on ha
     <tr><td>PureOS</td><td>No</td><td>Yes</td></tr>
   </table>
 </div>
-
-### PinePhone vs Purism Librem 5
-
-<a href="https://puri.sm/products/librem-5/" target="_blank">Purism Librem 5</a> is also Linux phone device that uses desktop class components which is not suitable for phone form factor and thus, is arguably more powerful than PinePhone. Librem is expensive and may also not support alternate OS as the PinePhone. Both device are privacy consciously built for open source enthusiasts and developers, who can tweak the system as per their requirement.
 
 
 ### Summary

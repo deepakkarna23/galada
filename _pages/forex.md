@@ -6,43 +6,26 @@ permalink: /forex/
 
 <div class="container">
   <div class="row">
-    <div class="col col-12 col-t-6">
+    <div class="col col-12 col-t-12">
       <!-- START CODE Attention! Do not modify this code; -->
       <script>var fm = "USD";var to = "NPR";var tz = "timezone";var sz = "1x2";var lg = "en";var st = "primary";var lr = "1";var rd = "0";</script>
       <a href="https://currencyrate.today/converter-widget" title="Currency Converter">
         <script src="//currencyrate.today/converter"></script>
       </a>
       <div style="font-size:.8em;" align="center">
-        © <a href="https://currencyrate.today">Currency Converter</a>
+        © <a href="https://currencyrate.today" target="_blank">Currency Converter</a>
       </div>
       <!-- Attention! Do not modify this code; END CODE -->
     </div>
-    <div class="col col-12 col-t-6">
-      Nepali Date Converter
-      <!-- Start of nepali date converter -->
-      <script type="text/javascript"> <!--
-      var nc_dc_width = 'responsive';
-      var nc_dc_height = 200;
-      var nc_dc_api_id = 37120200119464; //-->
-      </script>
-      <script type="text/javascript" src="https://www.ashesh.com.np/nepali-date/dcnew.js"></script><div align="center" style="font-size:.8em;">© <a href="https://www.ashesh.com.np/nepali-date-converter.php" style="text-decoration:none;" title="Nepali date converter" target="_blank">Nepali Date Converter</a></div>
-      <!-- End of nepali date converter -->
-    </div>
   </div>
 </div>
-
 
 <hr>
 
 <div class="container">
   <div class="row">
-    <div class="col col-12 col-t-6">
-      <iframe src="https://www.ashesh.com.np/forex/widget2.php?api=971116j423" frameborder="0" scrolling="yes" marginwidth="0" marginheight="0" style="border:none; overflow:hidden; width:100%; height:383px; border-radius:5px;">
-      </iframe><div style="font-size:.8em;" align="center"><span style="text-align:left">© <a href="https://www.ashesh.com.np/forex/" title="Nepal Exchange Rates for Nepalese Rupee" target="_blank" style="text-decoration:none;">Nepal Exchange Rates</a></span></div>
-    </div>  
-    <div class="col col-12 col-t-6">
-      <iframe src="https://www.ashesh.com.np/gold/widget.php?api=981113j461&header_color=0077e5" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" style="border:none; overflow:hidden; width:100%; height:265px; border-radius:5px;" allowtransparency="true">
-      </iframe><div style="font-size:.8em;" align="center"><span>© <a href="https://www.ashesh.com.np/gold/" title="Gold & Silver Rates Nepal" target="_blank" style="text-decoration:none;">Gold & Silver Rates Nepal</a></span></div>
+    <div class="col col-12 col-t-12">
+      <!-- START CODE Attention! Do not modify this code; --><script>var fm = "USD";var to = "BTC,AUD,GBP,EUR,CNY,JPY,RUB,CAD,CHF,SGD,NZD,PKR,HKD,KRW,THB,INR,BHD,BDT,BTN,KWD,MYR,NPR,KPW,PHP,QAR,SAR,LKR,SEK,VND";var tz = "timezone";var sz = "1x1163";var lg = "en";var st = "primary";var cd = 0;var am = 1</script><a href="https://currencyrate.today/exchangerates-widget" title="Exchange Rates"><script src="//currencyrate.today/exchangerates"></script></a><div style="font-size:.8em;" align="center">© <a href="https://currencyrate.today">Exchange Rates</a></div><!-- Attention! Do not modify this code; END CODE -->
     </div>
   </div>
 </div>

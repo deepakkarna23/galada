@@ -42,7 +42,7 @@ permalink: /forex/
     </div>  
     <div class="col col-12 col-t-6">
       <iframe src="https://www.ashesh.com.np/gold/widget.php?api=981113j461&header_color=0077e5" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" style="border:none; overflow:hidden; width:100%; height:265px; border-radius:5px;" allowtransparency="true">
-      </iframe><div style="font-size:.8em;" align="center"><span style="text-align:left">© <a href="https://www.ashesh.com.np/gold/" title="Gold & Silver Rates Nepal" target="_blank" style="text-decoration:none;">Gold & Silver Rates Nepal</a></span></div>
+      </iframe><div style="font-size:.8em;" align="center"><span>© <a href="https://www.ashesh.com.np/gold/" title="Gold & Silver Rates Nepal" target="_blank" style="text-decoration:none;">Gold & Silver Rates Nepal</a></span></div>
     </div>
   </div>
 </div>

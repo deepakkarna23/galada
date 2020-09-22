@@ -5,7 +5,20 @@
 
   <title>{% if page.title %}{{ page.title }} - Tech UpNext {% else %}{{ site.title }}{% endif %}</title>
   <meta name='description' content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}'>
+  
+  <!--Google Adword-->
+  <!-- Global site tag (gtag.js) - Google Ads: 581316632 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-581316632"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'AW-581316632');
+</script>
+
+  
+  
   <!--Meta tags for SEO-->
   <meta name="description" content="Tech UpNext is tech site designed to provide technology updates related to games, gadgets, how to, tutorials, tips and tricks and many more." />
   <meta name="keywords" content="games, tech, gadgets, how to, laptops, mobile, smartphone, tutorial, tricks, operating system,">
